@@ -37,5 +37,3 @@ class BookLover:
 
     def fav_books(self):
         return self.book_list[self.book_list.book_rating > 3]
-
-test_object = BookLover("Han Solo", "hsolo@millenniumfalcon.com", "scifi")

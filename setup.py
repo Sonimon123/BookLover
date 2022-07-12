@@ -6,4 +6,4 @@ setup(name='BookLover',
       url='https://github.com/Sonimon123/BookLover',
       author='JR Kargbo',
       license='MIT',
-      packages=['booklover'])
+      packages=['BookLover'])
